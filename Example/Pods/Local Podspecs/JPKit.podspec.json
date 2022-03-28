@@ -1,0 +1,22 @@
+{
+  "name": "JPKit",
+  "version": "0.1.0",
+  "summary": "A short description of JPKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jxw/JPKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jxw": "jxw@solestagecn.com"
+  },
+  "source": {
+    "git": "https://github.com/jxw/JPKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JPKit/Classes/**/*"
+}
